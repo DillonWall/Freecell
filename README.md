@@ -1,7 +1,7 @@
 # Freecell
 
 ## Overview
-This program is an implementation of the game Freecell.
+This program is a CLI implementation of the game Freecell.
 
 The game consists of a Play area, Free cell area, and Home area.
 
