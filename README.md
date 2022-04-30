@@ -51,4 +51,6 @@ This project is finished.
 
   
 ## Screenshots
+![Freecell](https://user-images.githubusercontent.com/49173127/166114875-819414b8-8de7-45f5-8432-41e37f167065.png)
+	
 ![image](https://user-images.githubusercontent.com/49173127/166088123-da22f0cd-de57-4fc8-a379-8243995bdf32.png)
