@@ -13,7 +13,7 @@
 *		other character input will start the game
 *
 *		During gameplay:
-*		- Help: type 'help'to bring up this menu again during play
+*		- Help: type 'help' to bring up this menu again during play
 *		- Move single card: '<m/move> <from area> <from zone #> <to area> <to zone #>'
 *			Example: to move from column 3 in the play area to the 2nd free cell, you may type:
 *						'm p 3 f 2' or 'move play 3 free 2'
